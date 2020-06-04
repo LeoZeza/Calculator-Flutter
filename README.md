@@ -1,16 +1,22 @@
-# calculator
+# Iphone calculator
+> Projeto desenvolvido em Fluter com a linguagem DART. 
+Basicamente é um clone da calculado do iphone, com seu estilo e regras.
 
-A new Flutter application - calculator.
+## Começando...
 
-## Getting Started
+Esse projeto é um ponto de partida para uma aplicação Flutter.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+Alguns recursos para você começar e entender melhor um projeto Flutter:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para obter ajuda sobre como iniciar o Flutter, consulte:
+[documentação online](https://flutter.dev/docs), que oferece tutoriais,
+exemplos, orientações sobre desenvolvimento móvel e uma referência completa sobre API.
+
+
+
+## Autor 👦🏻
+
+Feito com muito ☕ e ❤ por mim.
