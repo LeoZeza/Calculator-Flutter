@@ -1,6 +1,8 @@
 # Iphone calculator
-> Projeto desenvolvido em Fluter com a linguagem DART. 
-Basicamente é um clone da calculado do iphone, com seu estilo e regras.
+> Projeto desenvolvido em Fluter utilizando a linguagem DART. 
+O projeto é uma réplica da calculadora dos celulares iphone, com seu estilo e regras.
+
+
 
 ## Começando...
 
@@ -19,4 +21,4 @@ exemplos, orientações sobre desenvolvimento móvel e uma referência completa 
 
 ## Autor 👦🏻
 
-Feito com muito ☕ e ❤ por mim.
+Feito por mim com muito ☕ e ❤.
