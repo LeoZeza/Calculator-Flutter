@@ -2,7 +2,10 @@
 > Projeto desenvolvido em Fluter utilizando a linguagem DART. 
 O projeto é uma réplica da calculadora dos celulares iphone, com seu estilo e regras.
 
-
+<p align="center">
+  <img src = "https://github.com/LeoZeza/Calculator-Flutter/blob/master/lib/assets/principal_screen.jpg" height="700">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 ## Começando...
 
