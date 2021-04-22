@@ -1,5 +1,5 @@
 # Iphone calculator
-> Projeto desenvolvido em Fluter utilizando a linguagem DART. 
+> Projeto que desenvolvi como estudo para aprender melhor as principais funcionalidades do Fluter e da linguagem DART, utilizados para desenvolvimento mobile. 
 O projeto é uma réplica da calculadora dos celulares iphone, com seu estilo e regras.
 
 <p align="center">
